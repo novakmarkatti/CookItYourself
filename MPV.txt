@@ -4,3 +4,11 @@ Technológiák:
   - Frontend mobile: Unity
   - Backend:
   - Szeretnénk webes frontendet?
+
+Funkcionalitas:
+  - Receptek reszletes leirasa (video nelkul egyelore?)
+  - Bejelentkezes, regisztralas, kilepes
+  - Profil oldal 
+  - Recept kereso
+  - Recept szuro (nehezseg, idoigeny, hozzavalo)
+  - Recept szemelyreszabasa (hany fore keszul, mekkora tepsi, mennyi van az adott hozzavalobol)
