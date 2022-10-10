@@ -1,0 +1,6 @@
+MVP
+
+Technológiák:
+  - Frontend mobile: Unity
+  - Backend:
+  - Szeretnénk webes frontendet?
