@@ -15,8 +15,18 @@ next steps identified
 
 ___________________
 Előző heti haladás:
-  - 
+  - pitch
+  - choose version control and project manager
+  - reaching coach
+  - gathering MVP ideas
+  - Google Meets link
+  - Weekly report
+  - planning for next week
 
 _______________
-Jövő heti terv:
-  - 
+Jövő heti terv: a projekt alapjainak lefektetése
+  - Unity project elkészítése
+  - backend szerver
+  - adatbázis
+  - app kér adatot a szerverről
+  - app kér adatot az adatbázisról
