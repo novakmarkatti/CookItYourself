@@ -12,3 +12,10 @@ Funkcionalitas:
   - Recept kereso
   - Recept szuro (nehezseg, idoigeny, hozzavalo)
   - Recept szemelyreszabasa (hany fore keszul, mekkora tepsi, mennyi van az adott hozzavalobol)
+  
+  Ádám:
+  Én arra gondoltam, hogy az MVP csak 4-5 receptet fog tartalmazni, de azt rendesen videósan, az eredeti elképzelés szerint. Mivel nem lesz sok recept, ezért a kereső és szűrő nem hinném, hogy fontos lenne. Nem tudom használtátok-e a duolingo-t? Igazából egy olyasmit képzeltem el, a szinteket felosztva kategóriákba stb, de most még szint se kell egyenlőre, csak kategória.
+  A belépés, regisztráció, profil oldal ha nem kell és elég az amit mondunk, akkor szerintem nem feltétlen az MVP része, illetve jól csinálni nehéz, nekem 1 hónapig tartott, mire egy biztonságos regisztrációt összeraktam nulláról email authentikációval. Tudom itt nem fontos hogy jó legyen, ezért össze tudunk dobni valamit, ha nagyon muszáj.
+  Az összes infónak mind adatbázisból és a szerverről kell jönnie, hiszen ahogy egyre röbb recept van, egyre nagyobb lenne az app, ami elfogadhatatlan, illetve a folyamatos recept bővítés is újratöltést jelentene. A videóknak pedig youtubon kellene lennie, onnan fogjuk lejátszani a Unity-n belül.
+  Ha rányomunk egy ételre, akkor bejön az étel menüje. Itt egy jobb minőségű kép lesz róla alatta pedig a hozzávalók, (allergének talán?). Ezek alatt pedig két gomb: "Step-By-Step" és "To The Recipe". A lépésről lépésre lenne a kezdőknek ahol videókkal aprólékosan minden infót leírva készítheti el az ételt, míg a recept csak a lényegre koncentrál.
+  Ha kell regisztráció, stb, akkor az elkészített ételről fel kell tölteni egy képet, hogy meg kapd az érte járó XP-t.
