@@ -28,5 +28,7 @@ Jövő heti terv: a projekt alapjainak lefektetése
   - Unity project elkészítése
   - backend szerver
   - adatbázis
-  - app kér adatot a szerverről
-  - app kér adatot az adatbázisról
+  - app küld/kap adatot a szerverre/-ről
+  - app olvas/ír adatot az adatbázisról/-ba
+  - heti report
+  - következő heti tervek
