@@ -1,0 +1,9 @@
+MoM:
+Adam megmutatta Unityben az eddig elkeszult skeletont
+A kovetkezo hetre a Unityvel ismerkedest terveztuk
+Utana hetekre receptek gyujtese, mindenki 1-1 Scene-t feltolt adatokkal, videok keszitese, feedback kerese ismerosoktol (nem mind a kovi hetre, hanem a jovore)
+Unityben kb ennyit kell csinalni:
+- Canvashez kell csak hozzanyulni
+- Inspectorban nezelodni
+Adam fog tartani egy kis knowledge sharinget a heten, amihez fel kene tenni a Unityt
+- ehhez egy idopontot kellene egyeztetni
