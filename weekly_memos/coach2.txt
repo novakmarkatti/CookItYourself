@@ -1,0 +1,15 @@
+Adam demozott, a feedback a kovi:
+- legfeljebb 30 eveseknek felel meg
+- vizes kezzel fogjak nyomkodni es hogyan lehet ezt megoldani, Adam otlete alapjan hangvezerlessel megtenni ezt
+- lockolast oldjuk meg h kozben ne zarjon le a kepernyo
+- CI/CD-re erkezett kerdes, hogy lesz-e, Jozsi dolgozik rajta, eleg 1-1 screenshot, hogy ennyi ido volt a futas...
+- heti progresst kell nezni, kuldjunk egy listat hogy mi a haladas es mi a terv a kovi hetre
+- valami ilyesmit kellene csinalnunk: https://www.techadv.com/blog/how-use-creatio-gauge-widget-track-progress-towards-goal
+- extra max 15 pontert, mennyi a daily active user szam, google analytics-szel lesz merve
+- githubba belehegeszteni a google analyticset, login eventre rarakni
+- egy recepttel erdemes vegigvezetni az egeszet
+- talaljuk ki hogyan jut el minel tobb emberhez
+- youtubeon a top recepteket
+- magyarul kellene csinalni, hogy ismerosoket konnyebb legyen bevonni
+- kikuldozgetni egyetemen belul, valami marketinget kell kore epiteni
+- egy jo otlet kell ehhez h az emberekhez eljusson
