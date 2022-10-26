@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VideoPlayerTest/VideoPlayerTest.unity
-    guid: 534f6d36b4e4df74f8d19aedf3af4b3a
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: dd9703180a8930144bf218fce9ccc7c1
+  - enabled: 1
+    path: Assets/Scenes/Meals/Newbie/Meal0.unity
+    guid: a23e922e149ad7e4eafa201955ce96b3
   m_configObjects: {}

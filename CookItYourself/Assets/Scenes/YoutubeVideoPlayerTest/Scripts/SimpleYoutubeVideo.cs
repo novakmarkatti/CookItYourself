@@ -12,16 +12,12 @@ namespace YoutubePlayer
         {
             videoPlayer = GetComponent<VideoPlayer>();
 
-            Load();
             Play();
         }
 
-        public async void Load()
+        public async void Play()
         {
             await videoPlayer.PlayYoutubeVideoAsync(videoUrl);
-        }
-        public void Play()
-        {
             videoPlayer.Play();
         }
     }
