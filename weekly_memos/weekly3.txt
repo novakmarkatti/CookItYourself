@@ -1,1 +1,2 @@
-
+hasznaljuk ugyanazt a Unityt: Unity 21.3.x
+webes eleres csak peldakent van, nincs meg optimalizalva 
