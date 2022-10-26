@@ -1,2 +1,5 @@
-hasznaljuk ugyanazt a Unityt: Unity 21.3.x
-webes eleres csak peldakent van, nincs meg optimalizalva 
+- Unity letöltési és installálási hibák megbeszélése. Eredmény: mindenki ugyanazt a Unity verziót használja (Unity 21.3.x)
+- Webes demó videó megtekintése
+- App változtatásainak ismertetése a csapattagokkal
+- Heti sprint feladatok megbeszélése
+- Ötletek megbeszélése a daily active users mérésének implementációjáról
